@@ -8,7 +8,8 @@ def partition(x, l, r, pivot):
     :param r: left border (not included) of partitioning range (int)
     :param pivot: pivot element to divide array (any item from x[l, r)).
     :return: il, ir -- desired partition
-    This function should reorder elements of x within [l, r) region in the way, these conditions are true:
+    This function should reorder elements of x within [l, r) region
+    in the way, these conditions are true:
     x[l:il] < pivot
     x[il:ir] == pivot
     x[ir:r] > pivot
