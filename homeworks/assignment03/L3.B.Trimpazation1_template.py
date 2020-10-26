@@ -15,9 +15,12 @@ quantum_m = 2**31 - 1
 
 def analyze_trimpazation(n, m, q0):
     '''
-    This function generates data with given parameters and calculates desired Y value.
+    This function generates data with given parameters
+    and calculates desired Y value.
+
     You need to modify it to make it execute faster.
-    You can check your progress using estimate_execution_time flag at the top of the file.
+    You can check your progress using estimate_execution_time flag
+    at the top of the file.
     '''
     m_div2 = m // 2
     q = q0
