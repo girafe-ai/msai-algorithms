@@ -1,4 +1,6 @@
-### MSAI Fall 2020 Launch.
+## MSAI Fall 2020 Launch.
+
+### Semester content:
 
 | Week   | Content                | Video & Quiz | Slides | Contest | Pdf with statements | Soft Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:------------:|:-------------------:|:------------------:|
@@ -13,3 +15,29 @@
 | 09     | RSQ & RMQ | [week09](https://onlinemipt.teachbase.ru/course_sessions/282577) | [Slides](../master/week09_rsq_rmq/MSAI.Fall.2020.L9.slides.pdf) | [Contest](https://contest.yandex.ru/contest/23496/?lang=en) | [Statements](../master/homeworks/assignment09/MSAI.Fall.2020.L9.home_assignment_statements.pdf) |  15.12.2020 20:00 GMT+3 |
 | 10     | Hashing | [week10](https://onlinemipt.teachbase.ru/course_sessions/284954) | [Slides](../master/week10_hashing/MSAI.Fall.2020.L10.slides.pdf) | [Contest](https://contest.yandex.ru/contest/23695/?lang=en) | [Statements](../master/homeworks/assignment10/MSAI.Fall.2020.L10.home_assignment_statements.pdf) |  22.12.2020 20:00 GMT+3 |
 | 11     | Binary Search Tree | [week11](https://onlinemipt.teachbase.ru/course_sessions/287913) | [Slides](../master/week11_bst/MSAI.Fall.2020.L11.slides.pdf) | None | None | None |
+
+Strict deadline for all home assignments is 25.01.2021 20:00 GMT+3.
+
+### Exams:
+
+You will have **practical** and **theoretical** exams.
+
+**Practical exam** problems and rules will be shared 18.01.2021 20:00 GMT+3. Strict deadline for practical exam submissions is 05.02.2021 23:00 GMT+3.
+
+Information about **theoretical exam** can be found [here](https://docs.google.com/document/d/1osZ9xEIBRY7TJhsrpMcAEcl-Zv7qdQorAbxr9nE_WvM/edit?usp=sharing).
+
+### Final grade:
+Final grade consists of three parts:
+
+- Homework grade: **H** is an integer number within range [0; 10] (calculated according to the rule presented in the beginning of the semester).
+A table with your actual grades will be prepared soon.
+**H** = ceil(hw_score / hw_maximum_score * 10)
+
+- Practical exam grade: **P** is an integer number within range [0; 10].
+
+- Theoretical exam grade: **T** is an integer number within range [0; 10].
+
+Your final grade is:
+ceil(0.6 **H** + 0.2 **P** + 0.2 **T**)
+
+If a student has **H** equal to 9 or 10, his/her **T** is supposed to be equal to **P**, but he/she still can participate in the theoretical exam. In this case, **T** becomes equal to actual grade for the theoretical exam.
