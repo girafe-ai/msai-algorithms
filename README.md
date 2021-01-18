@@ -22,7 +22,9 @@ Strict deadline for all home assignments is 25.01.2021 20:00 GMT+3.
 
 You will have **practical** and **theoretical** exams.
 
-**Practical exam** problems and rules will be shared 18.01.2021 20:00 GMT+3. Strict deadline for practical exam submissions is 05.02.2021 23:00 GMT+3.
+[Practical exam contest.](https://contest.yandex.ru/contest/24472)
+
+**Practical exam** rules can be found [here](https://docs.google.com/document/d/1RW_AWiszaRmpWyfEIBL3mu8TwvFyYOGKQD4bwCZ7Ozs/edit?usp=sharing). Strict deadline for practical exam submissions is 05.02.2021 23:00 GMT+3.
 
 Information about **theoretical exam** can be found [here](https://docs.google.com/document/d/1osZ9xEIBRY7TJhsrpMcAEcl-Zv7qdQorAbxr9nE_WvM/edit?usp=sharing).
 
