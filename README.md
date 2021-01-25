@@ -33,7 +33,7 @@ Final grade consists of three parts:
 
 - Homework grade: **H** is an integer number within range [0; 10] (calculated according to the rule presented in the beginning of the semester).
 A table with your actual grades will be prepared soon.
-**H** = ceil(hw_score / hw_maximum_score * 10)
+**H** = round(hw_score / hw_maximum_score * 10)
 
 - Practical exam grade: **P** is an integer number within range [0; 10].
 
