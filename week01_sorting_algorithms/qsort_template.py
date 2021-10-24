@@ -5,7 +5,7 @@ def partition(x, l, r, pivot):
     """
     :param x: Source array (list)
     :param l: left border of partitioning range (int)
-    :param r: left border (not included) of partitioning range (int)
+    :param r: right border (not included) of partitioning range (int)
     :param pivot: pivot element to divide array (any item from x[l, r)).
     :return: il, ir -- desired partition
     This function should reorder elements of x within [l, r) region
