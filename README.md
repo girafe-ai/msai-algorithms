@@ -7,8 +7,8 @@
 | 01     | Sorting algorithms     | [Slides](../master/week01_sorting_algorithms/MSAI.2021.Algo.W01.slides.pdf)    | [Contest](https://contest.yandex.ru/contest/29728/?lang=en) | 25.10.2021 19:00 GMT+3 |
 | 02     | Binary search          | [Slides](../master/week02_binary_search/MSAI.2021.Algo.W02.slides.pdf)         | [Contest](https://contest.yandex.ru/contest/30878/?lang=en) | (Updated) 04.11.2021 19:00 GMT+3 |
 | 03     | Basic Data sturctures  | [Slides](../master/week03_basic_data_structures/MSAI.2021.Algo.W03.slides.pdf) | [Contest](https://contest.yandex.ru/contest/31044/?lang=en) | 08.11.2021 19:00 GMT+3 |
+| 04     | Dynamic programming    | [Slides](../master/week04_dynamic_programming/MSAI.2021.Algo.W04.slides.pdf)   | [Contest](https://contest.yandex.ru/contest/31229/?lang=en) | 15.11.2021 19:00 GMT+3 |
 <!---                                                                                                                                                                          
-| 04     | Dynamic programming    | [Slides](../master/week04_dynamic_programming/MSAI.2021.Algo.W04.slides.pdf)   | [Contest](https://contest.yandex.ru/contest/<ID>/?lang=en)  | 15.11.2021 19:00 GMT+3 |
 | 05     | Knapsack problem       | [Slides](../master/week05_knapsack/MSAI.2021.Algo.W05.slides.pdf)              | [Contest](https://contest.yandex.ru/contest/<ID>/?lang=en)  | 22.11.2021 19:00 GMT+3 |
 | 06     | KMP & Heap             | [Slides](../master/week06_kmp_heap/MSAI.2021.Algo.W06.slides.pdf)              | [Contest](https://contest.yandex.ru/contest/<ID>/?lang=en)  | 29.11.2021 19:00 GMT+3 |
 | 07     | DFS & BFS              | [Slides](../master/week07_dfs_bfs/MSAI.2021.Algo.W07.slides.pdf)               | [Contest](https://contest.yandex.ru/contest/<ID>/?lang=en)  | 06.12.2021 19:00 GMT+3 |
