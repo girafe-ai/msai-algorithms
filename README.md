@@ -8,10 +8,10 @@
 [ContestID_W04]: https://contest.yandex.ru/contest/31229/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/31516/?lang=en
 [ContestID_W06]: https://contest.yandex.ru/contest/32018/?lang=en
-[ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W07]: https://contest.yandex.ru/contest/32240/?lang=en
+[ContestID_W08]: https://contest.yandex.ru/contest/32241/?lang=en
+[ContestID_W09]: https://contest.yandex.ru/contest/32242/?lang=en
+[ContestID_W10]: https://contest.yandex.ru/contest/32243/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/ag1RuRBqV44cgEBk9
 [WarmUp_test_W02]: https://forms.gle/rCvoWJ45ASP4c9J87
@@ -19,11 +19,11 @@
 [WarmUp_test_W04]: https://forms.gle/Hr7zayVzCm22NNLf9
 [WarmUp_test_W05]: https://forms.gle/JJgv5e5NJBoF8GVL9
 [WarmUp_test_W06]: https://forms.gle/AATgnscjw36tyUsV6
-[WarmUp_test_W07]: .....
-[WarmUp_test_W08]: .....
-[WarmUp_test_W09]: .....
-[WarmUp_test_W10]: .....
-[WarmUp_test_W11]: .....
+[WarmUp_test_W07]: https://forms.gle/RTFfFUrX9XX7i4PQ7
+[WarmUp_test_W08]: https://forms.gle/Vuc9T94azE1Za7vJ9
+[WarmUp_test_W09]: https://forms.gle/iLLJyqgNGnaPRaL17
+[WarmUp_test_W10]: https://forms.gle/ppfmW9rWUo3z6NSm9
+[WarmUp_test_W11]: https://forms.gle/yqXMZ1xBn8mkpTvQA
 
 [Slides_W01]: ../master/week01_sorting_algorithms/MSAI.2021.Algo.W01.slides.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.2021.Algo.W02.slides.pdf
