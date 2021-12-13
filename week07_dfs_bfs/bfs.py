@@ -2,7 +2,8 @@ from collections import deque
 INF = 10**9
 
 # with one color:
-def bfs(G, visited, s):
+def bfs(G, s):
+    visited = [False] * len(G)
     vertex_queue = deque([s])
     while vertex_queue:
         v = vertex_queue.popleft()
@@ -11,10 +12,16 @@ def bfs(G, visited, s):
             for u in G[v]:
                 if not visited[u]:
                     vertex_queue.append(u)
+    return visited
 
 
-# with two colors (+d, p):
-def bfs(G, visited, d, p, s):
+# with two colors for calculating path (+d, p):
+def bfs_p(G, s):
+    visited = [False] * len(G)
+    d = [INF] * len(G)
+    p = [-1] * len(G)
+    d[s] = 0
+
     vertex_queue = deque([s])
     while vertex_queue:
         v = vertex_queue.popleft()
@@ -25,21 +32,7 @@ def bfs(G, visited, d, p, s):
                 vertex_queue.append(u)
                 d[u] = d[v] + 1
                 p[u] = v
-
-
-def bfs2(G, s):
-    d = [0] * len(G)
-    visited = [0] * len(G)
-    vertex_queue = deque([s])
-    while vertex_queue:
-        v = vertex_queue.popleft()
-        if not visited[v]:
-            visited[v] = 1
-            for u in G[v]:
-                if not visited[u]:
-                    vertex_queue.append(u)
-                    d[u] = d[v] + 1
-    print(d)
+    return d, p
 
 
 if __name__ == '__main__':
@@ -53,12 +46,7 @@ if __name__ == '__main__':
     s, f = map(int, input().split())
 
     #searching shortest path s -> f:
-
-    visited = [False] * N
-    d = [INF] * len(G)
-    p = [-1] * len(G)
-    d[s] = 0
-    bfs2(G, s)
+    d, p = bfs_p(G, s)
 
     if d[f] == INF:
         print(-1)
