@@ -48,9 +48,9 @@
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 13.12.2021 19:00 GMT+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 20.12.2021 19:00 GMT+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 27.12.2021 19:00 GMT+3 |
-| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 10.01.2022 19:00 GMT+3 |
+| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | (Updated) 17.01.2022 19:00 GMT+3 |
+| 11     | Binary Search Tree     | [Slides][Slides_W11] | [Test][WarmUp_test_W11] | None                     | None                   |
 <!---                                                                                                                                                                          
-| 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
 
 <!--- Strict deadline for all home assignments is 25.01.2021 20:00 GMT+3. --->
