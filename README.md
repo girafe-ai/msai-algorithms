@@ -53,17 +53,16 @@
 <!---                                                                                                                                                                          
 --->
 
-<!--- Strict deadline for all home assignments is 25.01.2021 20:00 GMT+3. --->
+Strict deadline for all home assignments is day before first day of theoretical exam (the date is not defined yet). Time: 23:59 GMT+3.
 
-<!---
 ### Exams:
 
 You will have **practical** and **theoretical** exams.
 
-**Practical exam** problems and rules will be shared <date>. Strict deadline for practical exam submissions is <date>
+**Practical exam** is just another [contest](https://contest.yandex.ru/contest/34776) which contains 12 problems, but you don't have to solve all of them. Please, read the [rules](https://docs.google.com/document/d/1NJMl51P93OyULjuZWDsDH9WKPoMalUzcU-Ny6u1sJ3k/edit?usp=sharing) before solving them.
+Strict deadline for practical exam submissions is same as for HA problems.
 
-Information about **theoretical exam** can be found [here](<link>).
---->
+Information about **theoretical exam** can be found [here](https://docs.google.com/document/d/1QOeOZOZl7J94prpZdeelFTahVidiW0nxYfzlAS7FNYE/edit?usp=sharing).
 
 ### Homework grade
 Homework grade contributes the most into final grade. To increase homework grade you should solve problems from home assignments.
@@ -97,3 +96,5 @@ Final grade **`G`** consists of three parts:
 
 Your final grade is:
 <pre><b>G</b> = ceil(0.6 <b>H</b> + 0.2 <b>P</b> + 0.2 <b>T</b>)</pre>
+
+If a student has **`H`** equal to 10, his/her **`T`** is supposed to be equal to **`P`**, but he/she still can participate in the theoretical exam. In this case, **`T`** becomes equal to actual grade for the theoretical exam.
