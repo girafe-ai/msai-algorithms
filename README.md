@@ -53,14 +53,14 @@
 <!---                                                                                                                                                                          
 --->
 
-Strict deadline for all home assignments is day before first day of theoretical exam (the date is not defined yet). Time: 23:59 GMT+3.
+Strict deadline for all home assignments is day before first day of theoretical exam: 06.02.2022 23:59 GMT+3.
 
 ### Exams:
 
 You will have **practical** and **theoretical** exams.
 
 **Practical exam** is just another [contest](https://contest.yandex.ru/contest/34776) which contains 12 problems, but you don't have to solve all of them. Please, read the [rules](https://docs.google.com/document/d/1NJMl51P93OyULjuZWDsDH9WKPoMalUzcU-Ny6u1sJ3k/edit?usp=sharing) before solving them.
-Strict deadline for practical exam submissions is same as for HA problems.
+Strict deadline for practical exam submissions is same as for HA problems: 06.02.2022 23:59 GMT+3.
 
 Information about **theoretical exam** can be found [here](https://docs.google.com/document/d/1QOeOZOZl7J94prpZdeelFTahVidiW0nxYfzlAS7FNYE/edit?usp=sharing).
 
