@@ -19,7 +19,7 @@ def counting_sort2(x):
         c[v] += 1
     for i in range(1, M):
         c[i] += c[i - 1]
-    print(c)
+    # print(c)
     res = [None] * N
     for i in range(N):
         position = c[x[i]] - 1
@@ -28,7 +28,8 @@ def counting_sort2(x):
     return res
 
 
-N = int(input())
-x = list(map(int, input().split()))
-x = counting_sort2(x)
-print(' '.join(map(str, x)))
+if __name__ == '__main__':
+    N = int(input())
+    x = list(map(int, input().split()))
+    x = counting_sort2(x)
+    print(' '.join(map(str, x)))
