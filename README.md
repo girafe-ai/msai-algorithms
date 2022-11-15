@@ -6,7 +6,7 @@
 [ContestID_W02]: https://contest.yandex.ru/contest/42055/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/42483/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/42793/?lang=en
-[ContestID_W05]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W05]: https://contest.yandex.ru/contest/43164/?lang=en
 [ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -16,7 +16,7 @@
 [WarmUp_test_W01]: https://forms.gle/aW9ru9m5z8PhUA8J6
 [WarmUp_test_W02]: https://forms.gle/5sko4YLJjT7MfsRy8
 [WarmUp_test_W03]: https://forms.gle/d1vjJpudUpWpwZWR9
-[WarmUp_test_W04]: https://forms.gle/<form_id>
+[WarmUp_test_W04]: https://forms.gle/eEEVhhFJCN8QKjDg6
 [WarmUp_test_W05]: https://forms.gle/<form_id>
 [WarmUp_test_W06]: https://forms.gle/<form_id>
 [WarmUp_test_W07]: https://forms.gle/<form_id>
@@ -42,9 +42,9 @@
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 04.11.2022 19:30 GMT+3 (Updated) |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 09.11.2022 19:00 GMT+3 (Updated) |
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 11.11.2022 19:30 GMT+3 |
-| 04     | Dynamic programming    | [Slides][Slides_W04] | N/A                     | [Contest][ContestID_W04] | ??.11.2022 19:00 GMT+3 |
+| 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 23.11.2022 19:00 GMT+3 |
+| 05     | Knapsack problem       | [Slides][Slides_W05] | N/A                     | [Contest][ContestID_W05] | 25.11.2022 19:00 GMT+3 |
 <!---
-| 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | ??.11.2022 19:00 GMT+3 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | ??.11.2022 19:00 GMT+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | ??.12.2022 19:00 GMT+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | ??.12.2022 19:00 GMT+3 |
