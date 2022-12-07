@@ -9,7 +9,7 @@
 [ContestID_W05]: https://contest.yandex.ru/contest/43164/?lang=en
 [ContestID_W06]: https://contest.yandex.ru/contest/43711/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/44005/?lang=en
-[ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W08]: https://contest.yandex.ru/contest/44302/?lang=en
 [ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
 
@@ -20,7 +20,7 @@
 [WarmUp_test_W05]: https://forms.gle/c7n5qXSYCMV2ujEQ7
 [WarmUp_test_W06]: https://forms.gle/x4hQM7zvHEiAgedo7
 [WarmUp_test_W07]: https://forms.gle/C5PyMQxT1aieAxfw8
-[WarmUp_test_W08]: https://forms.gle/<form_id>
+[WarmUp_test_W08]: https://forms.gle/3ML51kQRB7YPYZdG6
 [WarmUp_test_W09]: https://forms.gle/<form_id>
 [WarmUp_test_W10]: https://forms.gle/<form_id>
 [WarmUp_test_W11]: https://forms.gle/<form_id>
@@ -46,8 +46,8 @@
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 25.11.2022 19:00 GMT+3 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 30.11.2022 19:00 GMT+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 07.12.2022 19:00 GMT+3 |
+| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 14.12.2022 19:00 GMT+3 |
 <!---
-| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | ??.12.2022 19:00 GMT+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | ??.12.2022 19:00 GMT+3 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | ??.12.2022 19:00 GMT+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
