@@ -11,7 +11,7 @@
 [ContestID_W07]: https://contest.yandex.ru/contest/44005/?lang=en
 [ContestID_W08]: https://contest.yandex.ru/contest/44302/?lang=en
 [ContestID_W09]: https://contest.yandex.ru/contest/44534/?lang=en
-[ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W10]: https://contest.yandex.ru/contest/44800/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/aW9ru9m5z8PhUA8J6
 [WarmUp_test_W02]: https://forms.gle/5sko4YLJjT7MfsRy8
@@ -22,7 +22,7 @@
 [WarmUp_test_W07]: https://forms.gle/C5PyMQxT1aieAxfw8
 [WarmUp_test_W08]: https://forms.gle/3ML51kQRB7YPYZdG6
 [WarmUp_test_W09]: https://forms.gle/yygmnyU2DjExQQNE9
-[WarmUp_test_W10]: https://forms.gle/<form_id>
+[WarmUp_test_W10]: https://forms.gle/pe9HfxGfasRPYMct8
 [WarmUp_test_W11]: https://forms.gle/<form_id>
 
 [Slides_W01]: ../master/week01_sorting_algorithms/MSAI.2022.Algo.W01.slides.pdf
@@ -48,8 +48,8 @@
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 07.12.2022 19:00 GMT+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 14.12.2022 19:00 GMT+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 21.12.2022 19:00 GMT+3 |
+| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 28.12.2022 19:00 GMT+3 |
 <!---
-| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | ??.12.2022 19:00 GMT+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
 
