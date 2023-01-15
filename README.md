@@ -53,16 +53,17 @@
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
 
-<!--- Strict deadline for all home assignments is 25.01.2022 20:00 GMT+3. --->
+Strict deadline for all home assignments is 09.02.2023 23:59 GMT+3.
 
-<!---
+
 ### Exams:
 
 You will have **practical** and **theoretical** exams.
 
-**Practical exam** problems and rules will be shared <date>. Strict deadline for practical exam submissions is <date>
+**Practical exam** rules can be found [here](https://docs.google.com/document/d/1AZuG5YIP2T8uov5DK-WPbb2t_i9keYXX). Strict deadline for practical exam submissions is 09.02.2023 23:59 GMT+3.
 
-Information about **theoretical exam** can be found [here](<link>).
+Information about **theoretical exam** will be available soon.
+<!---can be found [here](<link>).
 --->
 
 
