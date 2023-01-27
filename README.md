@@ -49,22 +49,11 @@
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 14.12.2022 19:00 GMT+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 21.12.2022 19:00 GMT+3 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 28.12.2022 19:00 GMT+3 |
-<!---
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
+<!---
 --->
 
 Strict deadline for all home assignments is 09.02.2023 23:59 GMT+3.
-
-
-### Exams:
-
-You will have **practical** and **theoretical** exams.
-
-**Practical exam** rules can be found [here](https://docs.google.com/document/d/1AZuG5YIP2T8uov5DK-WPbb2t_i9keYXX). Strict deadline for practical exam submissions is 09.02.2023 23:59 GMT+3.
-
-Information about **theoretical exam** will be available soon.
-<!---can be found [here](<link>).
---->
 
 
 ### Final grade:
@@ -78,6 +67,20 @@ Final grade **`G`** consists of three parts:
 
 Your final grade is:
 <pre><b>G</b> = ceil(0.6 <b>H</b> + 0.2 <b>P</b> + 0.2 <b>T</b>)</pre>
+
+
+### Exams:
+
+You will have **practical** and **theoretical** exams.
+
+**Practical exam** rules can be found [here](https://docs.google.com/document/d/1AZuG5YIP2T8uov5DK-WPbb2t_i9keYXX). Strict deadline for practical exam submissions is 09.02.2023 23:59 GMT+3.
+
+Information about **theoretical exam** can be found [here](https://docs.google.com/document/d/1jMa49jKyemgESEou3lvoMtg2rlFeGgf_).
+
+Theoretical exam is **not necessary for students with `H` equals to 9 or 10**.
+If a student has **`H`** equal to 9 or 10, his/her **`T`** is supposed to be equal to **`P`**, but he/she still can participate in the theoretical exam. In this case, **`T`** becomes equal to actual grade for the theoretical exam.
+<!---
+--->
 
 
 ### Homework grade
