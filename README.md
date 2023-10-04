@@ -2,7 +2,7 @@
 
 ### Semester content:
 
-[ContestID_W01]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W01]: https://contest.yandex.ru/contest/53597/?lang=en
 [ContestID_W02]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -13,7 +13,7 @@
 [ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
 
-[WarmUp_test_W01]: https://forms.gle/<form_id>
+[WarmUp_test_W01]: https://forms.gle/4LDQdf3Dw21cF3xYA
 [WarmUp_test_W02]: https://forms.gle/<form_id>
 [WarmUp_test_W03]: https://forms.gle/<form_id>
 [WarmUp_test_W04]: https://forms.gle/<form_id>
@@ -39,8 +39,8 @@
 
 | Week   | Content                | Slides               | WarmUp test             | Contest                  | Soft Deadline          |
 |:------:|:-----------------------|:--------------------:|:-----------------------:|:------------------------:|:----------------------:|
+| 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 11.10.2023 19:00 UTC+3 |
 <!---
-| 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | ??.10.2023 19:30 UTC+3 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | ??.10.2023 19:00 UTC+3 |
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | ??.11.2023 19:00 UTC+3 |
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | ??.11.2023 19:00 UTC+3 |
