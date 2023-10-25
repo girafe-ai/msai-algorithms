@@ -5,7 +5,7 @@
 [ContestID_W01]: https://contest.yandex.ru/contest/53597/?lang=en
 [ContestID_W02]: https://contest.yandex.ru/contest/54016/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/54346/?lang=en
-[ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W04]: https://contest.yandex.ru/contest/54765/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -16,7 +16,7 @@
 [WarmUp_test_W01]: https://forms.gle/4LDQdf3Dw21cF3xYA
 [WarmUp_test_W02]: https://forms.gle/xdDXeFT1DCcB5myn7
 [WarmUp_test_W03]: https://forms.gle/MrCR6BrWwGsKjqYx7
-[WarmUp_test_W04]: https://forms.gle/<form_id>\
+[WarmUp_test_W04]: https://forms.gle/Bp8e6XhezbHsiVWC8
 [WarmUp_test_W05]: https://forms.gle/<form_id>
 [WarmUp_test_W06]: https://forms.gle/<form_id>
 [WarmUp_test_W07]: https://forms.gle/<form_id>
@@ -41,9 +41,9 @@
 |:------:|:-----------------------|:--------------------:|:-----------------------:|:------------------------:|:----------------------:|
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 11.10.2023 19:00 UTC+3 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 18.10.2023 19:00 UTC+3 |
-| 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 25.11.2023 19:00 UTC+3 |
+| 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 25.10.2023 19:00 UTC+3 |
+| 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 01.11.2023 19:00 UTC+3 |
 <!---
-| 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | ??.11.2023 19:00 UTC+3 |
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | ??.11.2023 19:00 UTC+3 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | ??.11.2023 19:00 UTC+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | ??.12.2023 19:00 UTC+3 |
