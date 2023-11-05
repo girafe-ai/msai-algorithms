@@ -7,23 +7,23 @@
 [ContestID_W03]: https://contest.yandex.ru/contest/54346/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/54765/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/55196/?lang=en
-[ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W06]: https://contest.yandex.ru/contest/55295/?lang=en
+[ContestID_W07]: https://contest.yandex.ru/contest/55296/?lang=en
+[ContestID_W08]: https://contest.yandex.ru/contest/55297/?lang=en
+[ContestID_W09]: https://contest.yandex.ru/contest/55298/?lang=en
+[ContestID_W10]: https://contest.yandex.ru/contest/55299/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/4LDQdf3Dw21cF3xYA
 [WarmUp_test_W02]: https://forms.gle/xdDXeFT1DCcB5myn7
 [WarmUp_test_W03]: https://forms.gle/MrCR6BrWwGsKjqYx7
 [WarmUp_test_W04]: https://forms.gle/Bp8e6XhezbHsiVWC8
 [WarmUp_test_W05]: https://forms.gle/dWe6UWg4jmEAzt6v7
-[WarmUp_test_W06]: https://forms.gle/<form_id>
-[WarmUp_test_W07]: https://forms.gle/<form_id>
-[WarmUp_test_W08]: https://forms.gle/<form_id>
-[WarmUp_test_W09]: https://forms.gle/<form_id>
-[WarmUp_test_W10]: https://forms.gle/<form_id>
-[WarmUp_test_W11]: https://forms.gle/<form_id>
+[WarmUp_test_W06]: https://forms.gle/bG5H1jcMt6HpFrbj7
+[WarmUp_test_W07]: https://forms.gle/9QDTLhBsGfhsydGWA
+[WarmUp_test_W08]: https://forms.gle/vF7PkbAUAnnFuShk6
+[WarmUp_test_W09]: https://forms.gle/sHK8Y3tsYSmb4byK8
+[WarmUp_test_W10]: https://forms.gle/u5UjBxMwXBaXPzcW8
+[WarmUp_test_W11]: https://forms.gle/okRVYrtGz4juCaTh8
 
 [Slides_W01]: ../master/week01_sorting_algorithms/MSAI.2023.Algo.W01.slides.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.2023.Algo.W02.slides.pdf
