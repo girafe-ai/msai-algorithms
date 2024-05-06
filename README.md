@@ -42,8 +42,8 @@
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 07.05.2024 09:00 UTC+7 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 08.05.2024 09:00 UTC+7 |
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 09.05.2024 09:00 UTC+7 |
-<!---
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 10.05.2024 09:00 UTC+7 |
+<!---
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 13.05.2024 09:00 UTC+7 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 14.05.2024 09:00 UTC+7 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 15.05.2024 09:00 UTC+7 |
