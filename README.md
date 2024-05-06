@@ -5,25 +5,25 @@
 [ContestID_W01]: https://contest.yandex.ru/contest/81122/?lang=en
 [ContestID_W02]: https://contest.yandex.ru/contest/81205/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/81260/?lang=en
-[ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W05]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
-[ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W04]: https://contest.yandex.ru/contest/81350/?lang=en
+[ContestID_W05]: https://contest.yandex.ru/contest/81322/?lang=en
+[ContestID_W06]: https://contest.yandex.ru/contest/81350/?lang=en
+[ContestID_W07]: https://contest.yandex.ru/contest/81351/?lang=en
+[ContestID_W08]: https://contest.yandex.ru/contest/81352/?lang=en
+[ContestID_W09]: https://contest.yandex.ru/contest/81353/?lang=en
+[ContestID_W10]: https://contest.yandex.ru/contest/81354/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/iKFKrEsHGC66RjM6A
 [WarmUp_test_W02]: https://forms.gle/xQcA3JF9gSpF5ymy8
 [WarmUp_test_W03]: https://forms.gle/ac2kQtJtnYm4DLiz8
-[WarmUp_test_W04]: https://forms.gle/<form_id>
-[WarmUp_test_W05]: https://forms.gle/<form_id>
-[WarmUp_test_W06]: https://forms.gle/<form_id>
-[WarmUp_test_W07]: https://forms.gle/<form_id>
-[WarmUp_test_W08]: https://forms.gle/<form_id>
-[WarmUp_test_W09]: https://forms.gle/<form_id>
-[WarmUp_test_W10]: https://forms.gle/<form_id>
-[WarmUp_test_W11]: https://forms.gle/<form_id>
+[WarmUp_test_W04]: https://forms.gle/YBMKEQNiM1iK1PH56
+[WarmUp_test_W05]: https://forms.gle/deZv1CfXAQSz24po8
+[WarmUp_test_W06]: https://forms.gle/hXf78WvknbBJFXn97
+[WarmUp_test_W07]: https://forms.gle/WK4SQoK9X6nq85DA6
+[WarmUp_test_W08]: https://forms.gle/7wpKijaA8VTSdAPq8
+[WarmUp_test_W09]: https://forms.gle/EZc6HEHviYyD84v77
+[WarmUp_test_W10]: https://forms.gle/9C3uPhhbYuvbXisXA
+[WarmUp_test_W11]: https://forms.gle/MpGUCZuxxuYmN3aw9
 
 [Slides_W01]: ../master/week01_sorting_algorithms/BKK.2025.Algo.Class01.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.2025.Algo.W02.slides.pdf
@@ -42,8 +42,8 @@
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 09.09.2025 09:00 UTC+7 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 10.09.2025 09:00 UTC+7 |
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 11.09.2025 09:00 UTC+7 |
-<!---
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 12.09.2025 09:00 UTC+7 |
+<!---
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 15.09.2025 09:00 UTC+7 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 16.09.2025 09:00 UTC+7 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 17.09.2025 09:00 UTC+7 |
