@@ -1,8 +1,8 @@
-## MSAI Fall 2021 Launch.
+## Harbour.Space BKK 2024 M12.
 
 ### Semester content:
 
-[ContestID_W01]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W01]: https://contest.yandex.ru/contest/62321/?lang=en
 [ContestID_W02]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -13,7 +13,7 @@
 [ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
 
-[WarmUp_test_W01]: https://forms.gle/<form_id>
+[WarmUp_test_W01]: https://forms.gle/6tHJ6acUJC1ekVjeA
 [WarmUp_test_W02]: https://forms.gle/<form_id>
 [WarmUp_test_W03]: https://forms.gle/<form_id>
 [WarmUp_test_W04]: https://forms.gle/<form_id>
@@ -25,7 +25,7 @@
 [WarmUp_test_W10]: https://forms.gle/<form_id>
 [WarmUp_test_W11]: https://forms.gle/<form_id>
 
-[Slides_W01]: ../master/week01_sorting_algorithms/MSAI.2021.Algo.W01.slides.pdf
+[Slides_W01]: ../master/week01_sorting_algorithms/BKK.2024.Algo.Class01.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.2021.Algo.W02.slides.pdf
 [Slides_W03]: ../master/week03_basic_data_structures/MSAI.2021.Algo.W03.slides.pdf
 [Slides_W04]: ../master/week04_dynamic_programming/MSAI.2021.Algo.W04.slides.pdf
@@ -39,8 +39,8 @@
 
 | Week   | Content                | Slides               | WarmUp test             | Contest                  | Soft Deadline          |
 |:------:|:-----------------------|:--------------------:|:-----------------------:|:------------------------:|:----------------------:|
+| 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 07.05.2024 09:00 UTC+7 |
 <!---
-| 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | ??.10.2021 19:30 GMT+3 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | ??.11.2021 19:00 GMT+3 |
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | ??.11.2021 19:00 GMT+3 |
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | ??.11.2021 19:00 GMT+3 |
@@ -69,14 +69,14 @@ Information about **theoretical exam** can be found [here](<link>).
 ### Final grade:
 Final grade **`G`** consists of three parts:
 
-- Homework grade: **`H`** is an integer number within range [0; 10] (rules given below).
+- Homework grade: **`H`** is a number within range [0; 1] (rules given below).
 
 - Practical exam grade: **`P`** is an integer number within range [0; 10] (rules will be provided later).
 
 - Theoretical exam grade: **`T`** is an integer number within range [0; 10] (rules will be provided later).
 
 Your final grade is:
-<pre><b>G</b> = ceil(0.6 <b>H</b> + 0.2 <b>P</b> + 0.2 <b>T</b>)</pre>
+<pre><b>G</b> = ceil(0.6 <b>H</b> * 100 + 0.2 <b>P</b> * 10 + 0.2 <b>T</b> * 10)</pre>
 
 
 ### Homework grade
@@ -84,8 +84,8 @@ Homework grade contributes the most into final grade. To increase homework grade
 
 **Formally:**
 
-Homework grade: **`H`** is an integer number within range [0; 10]:
-<pre><b>H</b> = round(hw_score / hw_maximum_score * 10)</pre>
+Homework grade: **`H`** is an integer number within range [0; 1]:
+<pre><b>H</b> = hw_score / hw_maximum_score</pre>
 
 `hw_score` is sum of scores for all problems in home assignment.
 
