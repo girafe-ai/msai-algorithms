@@ -25,7 +25,7 @@
 [WarmUp_test_W10]: https://forms.gle/<form_id>
 [WarmUp_test_W11]: https://forms.gle/<form_id>
 
-[Slides_W01]: ../master/week01_sorting_algorithms/MSAI.2024.Algo.W01.slides.pdf
+[Slides_W01]: ../log/msai22_state/week01_sorting_algorithms/MSAI.2022.Algo.W01.slides.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.2024.Algo.W02.slides.pdf
 [Slides_W03]: ../master/week03_basic_data_structures/MSAI.2024.Algo.W03.slides.pdf
 [Slides_W04]: ../master/week04_dynamic_programming/MSAI.2024.Algo.W04.slides.pdf
