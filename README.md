@@ -45,8 +45,8 @@
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 04.11.2024 19:00 UTC+3 |
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 11.11.2024 19:00 UTC+3 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 18.11.2024 19:00 UTC+3 |
+| 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 25.11.2024 19:00 UTC+3 |
 <!---
-| 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | ??.12.2024 19:00 UTC+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | ??.12.2024 19:00 UTC+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | ??.12.2024 19:00 UTC+3 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | ??.12.2024 19:00 UTC+3 |
