@@ -20,7 +20,7 @@
 [WarmUp_test_W05]: https://forms.gle/F6V36zU14HkvFMq5A
 [WarmUp_test_W06]: https://forms.gle/uxtkHdyrxKR8c8i56
 [WarmUp_test_W07]: https://forms.gle/EzjU2FB1hDY3QQkJA
-[WarmUp_test_W08]: https://forms.gle/ftxDfdVeZDQZB1JfA
+[WarmUp_test_W08]: https://forms.gle/bbr21MMSv3Ziyska8
 [WarmUp_test_W09]: https://forms.gle/g9QA4LTiZwg3Nbka7
 [WarmUp_test_W10]: https://forms.gle/aJ5chmuBhfviNn8Q8
 [WarmUp_test_W11]: https://forms.gle/AshGbamo5f7Qi8uL9
@@ -46,8 +46,8 @@
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 11.11.2024 19:00 UTC+3 |
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 18.11.2024 19:00 UTC+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 25.11.2024 19:00 UTC+3 |
+| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 02.12.2024 19:00 UTC+3 |
 <!---
-| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | ??.12.2024 19:00 UTC+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | ??.12.2024 19:00 UTC+3 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | ??.12.2024 19:00 UTC+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
