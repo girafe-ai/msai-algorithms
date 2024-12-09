@@ -48,8 +48,8 @@
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 25.11.2024 19:00 UTC+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 02.12.2024 19:00 UTC+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 09.12.2024 19:00 UTC+3 |
+| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 16.12.2024 19:00 UTC+3 |
 <!---
-| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | ??.12.2024 19:00 UTC+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
 
