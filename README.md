@@ -26,16 +26,16 @@
 [WarmUp_test_W11]: https://forms.gle/MpGUCZuxxuYmN3aw9
 
 [Slides_W01]: ../master/week01_sorting_algorithms/BKK.2025.Algo.Class01.pdf
-[Slides_W02]: ../master/week02_binary_search/MSAI.2025.Algo.W02.slides.pdf
-[Slides_W03]: ../master/week03_basic_data_structures/MSAI.2025.Algo.W03.slides.pdf
-[Slides_W04]: ../master/week04_dynamic_programming/MSAI.2025.Algo.W04.slides.pdf
-[Slides_W05]: ../master/week05_knapsack/MSAI.2025.Algo.W05.slides.pdf
-[Slides_W06]: ../master/week06_kmp_heap/MSAI.2025.Algo.W06.slides.pdf
-[Slides_W07]: ../master/week07_dfs_bfs/MSAI.2025.Algo.W07.slides.pdf
-[Slides_W08]: ../master/week08_shortest_paths/MSAI.2025.Algo.W08.slides.pdf
-[Slides_W09]: ../master/week09_rsq_rmq/MSAI.2025.Algo.W09.slides.pdf
-[Slides_W10]: ../master/week10_hashing/MSAI.2025.Algo.W10.slides.pdf
-[Slides_W11]: ../master/week11_binary_search_tree/MSAI.2025.Algo.W11.slides.pdf
+[Slides_W02]: ../master/week02_binary_search/BKK.2025.Algo.Class02.pdf
+[Slides_W03]: ../master/week03_basic_data_structures/BKK.2025.Algo.Class03.pdf
+[Slides_W04]: ../master/week04_dynamic_programming/BKK.2025.Algo.Class04.pdf
+[Slides_W05]: ../master/week05_knapsack/BKK.2025.Algo.Class05.pdf
+[Slides_W06]: ../master/week06_kmp_heap/BKK.2025.Algo.Class06.pdf
+[Slides_W07]: ../master/week07_dfs_bfs/BKK.2025.Algo.Class07.pdf
+[Slides_W08]: ../master/week08_shortest_paths/BKK.2025.Algo.Class08.pdf
+[Slides_W09]: ../master/week09_rsq_rmq/BKK.2025.Algo.Class09.pdf
+[Slides_W10]: ../master/week10_hashing/BKK.2025.Algo.Class10.pdf
+[Slides_W11]: ../master/week11_binary_search_tree/BKK.2025.Algo.Class11.pdf
 
 | Week   | Content                | Slides               | WarmUp test             | Contest                  | Soft Deadline          |
 |:------:|:-----------------------|:--------------------:|:-----------------------:|:------------------------:|:----------------------:|
@@ -44,13 +44,13 @@
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 11.09.2025 09:00 UTC+7 |
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 12.09.2025 09:00 UTC+7 |
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 15.09.2025 09:00 UTC+7 |
-<!---
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 16.09.2025 09:00 UTC+7 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 17.09.2025 09:00 UTC+7 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 18.09.2025 09:00 UTC+7 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 19.09.2025 09:00 UTC+7 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 22.09.2025 09:00 UTC+7 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
+<!---
 --->
 
 <!--- Strict deadline for all home assignments is 24.09.2025  09:00 UTC+7. --->
