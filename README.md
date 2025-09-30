@@ -5,7 +5,7 @@
 ### Semester content:
 
 [ContestID_W01]: https://contest.yandex.ru/contest/81951/?lang=en
-[ContestID_W02]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W02]: https://contest.yandex.ru/contest/82393/?lang=en
 [ContestID_W03]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -16,7 +16,7 @@
 [ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/NStinQTJvgsmQb7k6
-[WarmUp_test_W02]: https://forms.gle/<form_id>
+[WarmUp_test_W02]: https://forms.gle/WfVwG5WDxHzsvwyu8
 [WarmUp_test_W03]: https://forms.gle/<form_id>
 [WarmUp_test_W04]: https://forms.gle/<form_id>
 [WarmUp_test_W05]: https://forms.gle/<form_id>
@@ -42,16 +42,16 @@
 | Week   | Content                | Slides               | WarmUp test             | Contest                  | Soft Deadline          |
 |:------:|:-----------------------|:--------------------:|:-----------------------:|:------------------------:|:----------------------:|
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 30.09.2025 18:00 UTC+3 |
+| 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 07.10.2025 18:00 UTC+3 |
 <!---
-| 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 09.09.2025 09:00 UTC+7 |
-| 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 10.09.2025 09:00 UTC+7 |
-| 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 11.09.2025 09:00 UTC+7 |
-| 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 12.09.2025 09:00 UTC+7 |
-| 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 15.09.2025 09:00 UTC+7 |
-| 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 16.09.2025 09:00 UTC+7 |
-| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 17.09.2025 09:00 UTC+7 |
-| 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 18.09.2025 09:00 UTC+7 |
-| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 19.09.2025 09:00 UTC+7 |
+| 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 14.10.2025 18:00 UTC+3 |
+| 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 21.10.2025 18:00 UTC+3 |
+| 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 28.10.2025 19:00 UTC+3 |
+| 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 11.11.2025 19:00 UTC+3 |
+| 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 18.11.2025 19:00 UTC+3 |
+| 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 25.11.2025 19:00 UTC+3 |
+| 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 02.12.2025 19:00 UTC+3 |
+| 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 09.12.2025 19:00 UTC+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
 
