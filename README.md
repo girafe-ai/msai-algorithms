@@ -9,7 +9,7 @@
 [ContestID_W03]: https://contest.yandex.ru/contest/82732/?lang=en
 [ContestID_W04]: https://contest.yandex.ru/contest/83249/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/83656/?lang=en
-[ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W06]: https://contest.yandex.ru/contest/84101/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W08]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -20,7 +20,7 @@
 [WarmUp_test_W03]: https://forms.gle/dqwCRJV53bKNyoSP8
 [WarmUp_test_W04]: https://forms.gle/yaUk2xpy47AsYg4Y8
 [WarmUp_test_W05]: https://forms.gle/SMkzCWnjawKUd3Mq5
-[WarmUp_test_W06]: https://forms.gle/<form_id>
+[WarmUp_test_W06]: https://forms.gle/hd3FJ7q9DKQFQyxo8
 [WarmUp_test_W07]: https://forms.gle/<form_id>
 [WarmUp_test_W08]: https://forms.gle/<form_id>
 [WarmUp_test_W09]: https://forms.gle/<form_id>
@@ -46,8 +46,8 @@
 | 03     | Basic Data sturctures  | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 14.10.2025 18:00 UTC+3 |
 | 04     | Dynamic programming    | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 21.10.2025 18:00 UTC+3 |
 | 05     | Knapsack problem       | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | 28.10.2025 19:00 UTC+3 |
+| 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 04.11.2025 19:00 UTC+3 |
 <!---
-| 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 11.11.2025 19:00 UTC+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 18.11.2025 19:00 UTC+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 25.11.2025 19:00 UTC+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 02.12.2025 19:00 UTC+3 |
