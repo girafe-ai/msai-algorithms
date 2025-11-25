@@ -12,7 +12,7 @@
 [ContestID_W06]: https://contest.yandex.ru/contest/84101/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/85253/?lang=en
 [ContestID_W08]: https://contest.yandex.ru/contest/85693/?lang=en
-[ContestID_W09]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W09]: https://contest.yandex.ru/contest/86120/?lang=en
 [ContestID_W10]: https://contest.yandex.ru/contest/<CID>/?lang=en
 
 [WarmUp_test_W01]: https://forms.gle/NStinQTJvgsmQb7k6
@@ -23,7 +23,7 @@
 [WarmUp_test_W06]: https://forms.gle/hd3FJ7q9DKQFQyxo8
 [WarmUp_test_W07]: https://forms.gle/otXsTPA3Dgd3QFcj8
 [WarmUp_test_W08]: https://forms.gle/gyZatWP7pd52m9GG6
-[WarmUp_test_W09]: https://forms.gle/<form_id>
+[WarmUp_test_W09]: https://forms.gle/Bxj6Aan4ZaNnqX2c6
 [WarmUp_test_W10]: https://forms.gle/<form_id>
 [WarmUp_test_W11]: https://forms.gle/<form_id>
 
@@ -49,8 +49,8 @@
 | 06     | KMP & Heap             | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | 04.11.2025 19:00 UTC+3 |
 | 07     | DFS & BFS              | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | 18.11.2025 19:00 UTC+3 |
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 25.11.2025 19:00 UTC+3 |
-<!---
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 02.12.2025 19:00 UTC+3 |
+<!---
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 09.12.2025 19:00 UTC+3 |
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
 --->
