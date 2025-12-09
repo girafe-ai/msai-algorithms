@@ -25,7 +25,7 @@
 [WarmUp_test_W08]: https://forms.gle/gyZatWP7pd52m9GG6
 [WarmUp_test_W09]: https://forms.gle/Bxj6Aan4ZaNnqX2c6
 [WarmUp_test_W10]: https://forms.gle/TvGHRTu43ZxDRKVv6
-[WarmUp_test_W11]: https://forms.gle/<form_id>
+[WarmUp_test_W11]: https://forms.gle/mvbDjUHGvz4m6jC17
 
 [Slides_W01]: ../master/week01_sorting_algorithms/MSAI.Algo.Class01.pdf
 [Slides_W02]: ../master/week02_binary_search/MSAI.Algo.W02.slides.pdf
@@ -51,8 +51,8 @@
 | 08     | Shortest paths         | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | 25.11.2025 19:00 UTC+3 |
 | 09     | RSQ & RMQ              | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | 02.12.2025 19:00 UTC+3 |
 | 10     | Hashing                | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | 09.12.2025 19:00 UTC+3 |
-<!---
 | 11     | Binary Search Tree     | [Slides][Slides_W11] | None                    | None                     | None                   |
+<!---
 --->
 
 <!--- Strict deadline for all home assignments is 24.09.2025  09:00 UTC+7. --->
