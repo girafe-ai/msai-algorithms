@@ -5,7 +5,7 @@
 [ContestID_W01]: https://contest.yandex.ru/contest/99194/?lang=en 
 [ContestID_W02]: https://contest.yandex.ru/contest/100001/?lang=en 
 [ContestID_W03]: https://contest.yandex.ru/contest/100466/?lang=en
-[ContestID_W04]: https://contest.yandex.ru/contest/<CID>/?lang=en
+[ContestID_W04]: https://contest.yandex.ru/contest/100985/?lang=en
 [ContestID_W05]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W06]: https://contest.yandex.ru/contest/<CID>/?lang=en
 [ContestID_W07]: https://contest.yandex.ru/contest/<CID>/?lang=en
@@ -16,7 +16,7 @@
 [WarmUp_test_W01]: https://forms.gle/Za5DNvEcFshXZsBJA
 [WarmUp_test_W02]: https://forms.gle/uAWfZXFQjLnk82tJ8
 [WarmUp_test_W03]: https://forms.gle/gsRHLsHFBVrKusJa6
-[WarmUp_test_W04]: https://forms.gle/<form_id>
+[WarmUp_test_W04]: https://forms.gle/BsM9mtUBocnmx9e27
 [WarmUp_test_W05]: https://forms.gle/<form_id>
 [WarmUp_test_W06]: https://forms.gle/<form_id>
 [WarmUp_test_W07]: https://forms.gle/<form_id>
@@ -28,8 +28,8 @@
 [Slides_W01]: ../master/week01_linear_algorithms/MSAI.2026.Algo.W01.slides.pdf
 [Slides_W02]: ../master/week02_sorting_algorithms/MSAI.2026.Algo.W02.slides.pdf
 [Slides_W03]: ../master/week03_binary_search/MSAI.2026.Algo.W03.slides.pdf
+[Slides_W04]: ../master/week04_basic_data_structures/MSAI.2026.Algo.W04.slides.pdf
 
-[Slides_W03-]: ../master/week03_basic_data_structures/MSAI.2026.Algo.W03.slides.pdf
 [Slides_W04-]: ../master/week04_dynamic_programming/MSAI.2026.Algo.W04.slides.pdf
 [Slides_W05-]: ../master/week05_knapsack/MSAI.2026.Algo.W05.slides.pdf
 [Slides_W06-]: ../master/week06_kmp_heap/MSAI.2026.Algo.W06.slides.pdf
@@ -44,6 +44,7 @@
 | 01     | Linear algorithms      | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 23.09.2026 19:00 UTC+3 |
 | 02     | Sorting algorithms     | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 30.09.2026 19:00 UTC+3 |
 | 03     | Binary search          | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | 07.10.2026 19:00 UTC+3 |
+| 04     | Basic Data sturctures  | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | 14.10.2026 19:00 UTC+3 |
 <!---
 | 01     | Sorting algorithms     | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [Contest][ContestID_W01] | 23.09.2026 19:00 UTC+3 |
 | 02     | Binary search          | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [Contest][ContestID_W02] | 30.09.2026 19:00 UTC+3 |
